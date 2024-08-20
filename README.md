@@ -1,9 +1,7 @@
-[![MasterHead] (https://codepen.io/Hil-S/full/RwEomNo)]
 
 <h1 align="center">Hi 👋, I'm Hamza Oumeziane</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-<img align="right" alt="coding" width="400" src"https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaoumeziane&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaoumeziane" /> </p>
