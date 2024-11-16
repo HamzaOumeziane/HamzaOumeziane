@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hamza Oumeziane</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate software developer from Canada</h3>
 
 
 
